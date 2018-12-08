@@ -26,7 +26,7 @@ curl https://sh.rustup.rs -sSf | sh
 ```
 
 ### Docker
-WARNING: As of now, Bionic is not supported by this repository. Use a one for a older version of Ubuntu or nigtly build as decribed below.
+WARNING: As of now, Bionic is not supported by this repository. Use one for a older version of Ubuntu or nigtly build as decribed below.
 ```
 sudo apt-get update
 sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
